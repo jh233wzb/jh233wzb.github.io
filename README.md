@@ -8,7 +8,7 @@
 
 ---
 
-* 书评（随更）
+- *书评（随更）*
 
   *《概率论导论》&《概率导论》*
   
@@ -23,11 +23,14 @@
 
 ---
 
-*[计组笔记](https://zhuanlan.zhihu.com/p/465378144)*
+- *笔记（随更）*
+
+  *[计组笔记](https://zhuanlan.zhihu.com/p/465378144)*
 
 ---
 
-test
+- *日历*
+- *外链（随更）*
 
 ---
 
@@ -35,4 +38,5 @@ test
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=7457431694&auto=0&height=430">
 </iframe>
 </div>
+
 ---
