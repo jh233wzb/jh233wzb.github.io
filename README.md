@@ -1,2 +1,10 @@
-# jh233wzb.github.io
-hello jh233
+# hello,这是jh233的个人主页，
+![这是头像](/img/1.jpg "jh233的头像")
+
+---
+
+诗歌数学唯二可爱，
+
+---
+
+test
