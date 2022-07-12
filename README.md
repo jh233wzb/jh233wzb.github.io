@@ -4,22 +4,28 @@
 
 ---
 
-*诗歌数学唯二可爱，*
+*诗歌数学唯二可爱，  --jh233*
+
+*"大学"的灵魂也就在于超越世俗, 超越时代的纯真和理想 -- 我们不是要讨好企业的毕业生, 而是要寻找改变世界的力量. -- jyy*
 
 ---
 
 - *书评（随更）*
 
-
 ---
 
 - *笔记（随更）*
 
-  *[计组笔记](https://zhuanlan.zhihu.com/p/465378144)*
+- *[计组笔记杂乱](https://zhuanlan.zhihu.com/p/465378144)*
+- *[汇编杂乱](https://www.zhihu.com/question/26342456/answer/2570486429)
 
 ---
 
 - *外链（随更）*
+- *[信息搜索术，请保持信息的流动，不要受限于人...](https://www.yuque.com/arvinxx/note/information-search-and-organize)*
+- *[不止于读书，也读paper，举个栗子...](https://www.bilibili.com/video/BV1H44y1t75x?spm_id_from=333.999.0.0&vd_source=04378fdfe043ff6e6ac9699cd9b4809a)*
+- *[删繁就简，一以贯之de计算机系统学习路线 【硬核】 ](https://ysyx.org/)*
+- *[数 学 生 万 物](http://127.0.0.1:8080/)*
 
 ---
 
