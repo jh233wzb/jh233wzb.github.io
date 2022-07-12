@@ -18,7 +18,7 @@
 - *笔记（随更）*
 
 - *[计组笔记杂乱](https://zhuanlan.zhihu.com/p/465378144)*
-- *[汇编杂乱](https://www.zhihu.com/question/26342456/answer/2570486429)
+- *[汇编杂乱](https://www.zhihu.com/question/26342456/answer/2570486429)*
 
 ---
 
