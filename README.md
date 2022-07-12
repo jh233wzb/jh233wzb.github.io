@@ -11,6 +11,7 @@
 ---
 
 - *书评（随更）*
+- *数 学 生 万 物（随更）*
 
 ---
 
@@ -21,11 +22,10 @@
 
 ---
 
-- *外链（随更）*
-- *[信息搜索术，请保持信息的流动，不要受限于人...](https://www.yuque.com/arvinxx/note/information-search-and-organize)*
+- *感谢开源！有了以下外链（随更）*
+- *[信息搜索术，保持信息流动，不受限于人...](https://www.yuque.com/arvinxx/note/information-search-and-organize)*
 - *[不止于读书，也读paper，举个栗子...](https://www.bilibili.com/video/BV1H44y1t75x?spm_id_from=333.999.0.0&vd_source=04378fdfe043ff6e6ac9699cd9b4809a)*
 - *[删繁就简，一以贯之de计算机系统学习路线 【硬核】 ](https://ysyx.org/)*
-- *[数 学 生 万 物](http://127.0.0.1:8080/)*
 
 ---
 
